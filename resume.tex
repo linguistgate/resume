@@ -1,0 +1,235 @@
+% Created 2022-03-20 Sun 16:47
+% Intended LaTeX compiler: pdflatex
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{unicode}
+\usepackage{xcolor}
+\definecolor{section}   {HTML}{80ADA3}
+\definecolor{subsection}{HTML}{EAEAEA}
+\definecolor{sidebar}   {HTML}{FAFAFA}
+\pagenumbering{gobble}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{paracol}
+\usepackage[most]{tcolorbox}
+\newtcolorbox{bgbox}[2][]{
+width=\linewidth,
+left=0pt, right=0pt, top=0pt, bottom=0pt,
+colback=#2, colframe=#2,
+arc=0pt,outer arc=0pt,
+}
+\newcommand{\sectionhead}[1]{%
+\begin{bgbox}{section}%
+{\Large \textsf{#1}}%
+\end{bgbox}%
+}
+\newcommand{\subsectionhead}[1]{%
+\begin{bgbox}{subsection}%
+{\small \textsf{#1}}%
+\end{bgbox}%
+}
+\usepackage[shortlabels]{enumitem}
+\setlist{nosep}
+\renewcommand{\labelitemii}{▻}
+\renewcommand{\labelitemii}{▻}
+\setlength{\parindent}{0em}
+\usepackage{tabularx}
+\date{}
+\title{Matthew E. Adams Resume}
+\hypersetup{colorlinks=false}
+\begin{document}
+
+
+\begin{center}
+\sffamily
+\begin{tabularx}{\textwidth}{Xr|l}
+ & email & m2eadams@gmail.com\\
+\raisebox{0pt}[0pt][0pt]{{\huge Matthew E. Adams } }  & phone & (650) 919-4152\\
+Literature, Corpus Linguistics \& Digital Humanities & web & \href{https://phantisocracy.xyz}{\texttt{phantisocracy.xyz}}\\
+ & github & \href{https://github.com/linguistgate}{\texttt{github.com/linguistgate}}\\
+\end{tabularx}
+\end{center}
+
+\columnratio{0.65}
+\begin{sloppypar} % The smaller linewidth causes issues otherwise.
+\begin{paracol}{2}
+\backgroundcolor{c[1]}{sidebar}
+\switchcolumn % go to right column
+\begin{raggedright}
+\small
+
+\sectionhead{Profile}
+\label{Objectives}
+\begin{itemize}
+\item Currently based in the Salt Lake City area, I am looking to expand my career beyond education.
+\item I am interested in data science, technical writing, and outdoors positions.
+\item I have significant experience in quantitative computational work.
+\end{itemize}
+\sectionhead{Certifications}
+\label{sec:org16fcf92}
+
+\subsectionhead{California Clear Teaching Credential}
+\label{sec:org6cfcadc}
+
+\begin{itemize}
+\item \textbf{Authorizations} English, History, and ELA
+\item Document No. 180197982
+\end{itemize}
+
+\sectionhead{Skills}
+\label{Skills}
+\subsectionhead{Languages}
+\label{Languages}
+\begin{itemize}
+\item \textbf{Fluent} German
+\item \textbf{Advanced} French (reading)
+\item \textbf{Beginner} French (speaking), Spanish, Korean
+\end{itemize}
+
+\subsectionhead{Programming}
+\label{Programming}
+\begin{itemize}
+\item \textbf{Intermediate} Python
+\item \textbf{Beginner} Lisp, Java, R
+\end{itemize}
+
+\subsectionhead{Other computer proficiencies}
+\label{Other-computer-proficiencies}
+\begin{itemize}
+\item \textbf{Platforms} GNU/Linux, Mac, Windows
+\item \textbf{Tools} Emacs, Org-mode, \LaTeX, Docker
+\item \textbf{Version control} Git
+\end{itemize}
+
+\subsectionhead{Soft skills}
+\label{Soft-skills}
+\begin{itemize}
+\item Teaching and mentoring
+\item Literate programming
+\item Proofreading and copy-editing
+\end{itemize}
+
+\subsectionhead{Teachables}
+\label{Teachables}
+\begin{itemize}
+\item \textbf{Writing} Analytical prose, technical writing, creative writing
+\item \textbf{Literature} British, American, German
+\item \textbf{Linguistics} Formal phonology and syntax, corpus methods
+\item \textbf{Knowledge management} Org-mode, notetaking, digital gardens
+\end{itemize}
+
+\end{raggedright}
+\switchcolumn % go to left column
+
+
+\sectionhead{Employment}
+\label{Employment}
+\small
+
+\subsectionhead{English Faculty \& Writing Center Director \hfill Waterford School, 2019--Present}
+\label{}
+I teach English literature and run the Writing Center at Waterford School, a private liberal-arts institution in Sandy, Utah. I have developed a mentoring and coaching program between high school and middle school students and conducted more than 1,000 individual writing conferences.
+\subsectionhead{Humanities Teacher \& Project Designer \hfill High Tech High, 2016--2019}
+\label{}
+I taught English and history in a project-based public charter school. I worked closely with local businesses to ensure that projects had real-life connections and with the math and science teacher to work on interdisciplinary coherence.
+\subsectionhead{Computer Science Editor \hfill Shmoop, 2014--2015}
+\label{computer-science-editor}
+As computer science editor at this education start-up, I hired and managed a small team of writers developing courses in computer programming and edited their writing for clarity, correctness, and humor.
+\subsectionhead{Postdoctoral Scholar \hfill University of Düsseldorf, 2013--2014}
+\label{sec:orge7ac019}
+Following work on my dissertation, I began research on the relationship between word frequency and morphological behavior.
+\subsectionhead{German Legal Proofreader \hfill Geotext, 2011--2014}
+\label{Geotext}
+I proofed German-to-English legal documents. One of my biggest caseloads was the Madoff set of legal actions, and I worked closely with German and Austrian translators.
+\subsectionhead{Research \& Teaching Assistant \hfill Stanford University, 2007--2012}
+\label{research-teaching-asst}
+I assisted in the instruction of eight courses, some of them graduate-level, and worked on three research projects with Professors Arto Anttila, Dan Jurafsky, and Joan Bresnan. I served as the Mentor Teaching Assistant, developing a course on pegagogy, and was the Graduate Student Representative for 2007--2008.
+\subsectionhead{German Instructor \hfill Georgetown University, 2003--2005}
+\label{german-instructor}
+I taught intermediate German courses and was actively involved in curriculum reform efforts, drawing on statistical methods and CHILDES data to inform improvements.
+\sectionhead{Education}
+\label{Education}
+\subsectionhead{Ph.D. in Linguistics \hfill Stanford University, 2014}
+\label{}
+Thesis: \emph{The Comparative Grammaticality of the English Comparative}
+\subsectionhead{M.A. in German \hfill Georgetown University, 2005}
+\label{M.Sc. in-Computer-Science}
+Highest Distinction on Oral Examination of Master's thesis
+\subsectionhead{Affiliate Scholar in German \hfill Georg-August Universität Göttingen, 2000--2001}
+\label{Affilate-Scholar}
+
+\subsectionhead{B.A. in Linguistics and German \hfill University of California, Irvine, 2002}
+\label{B.A.-German-Linguistics}
+\begin{itemize}
+\item \emph{Summa cum Laude} in Linguistics
+\item \emph{Magna cum Laude} in German
+\end{itemize}
+
+\end{paracol}
+\end{sloppypar}
+\newpage
+\sectionhead{Awards \& Recognition}
+\label{Awards}
+\subsectionhead{Professional and academic}
+\label{sec:org0a2b1ed}
+
+\begin{center}
+\begin{tabular}{ll}
+\hline
+\textbf{Name} & \textbf{Year}\\
+\hline
+UCSD San Diego Area Writing Project Fellowship (\emph{declined}) & 2017\\
+Fulbright Scholarship to Berlin, Germany (\emph{declined}) & 2003\\
+UC Irvine School of Social Sciences Order of Merit (Top 2\%) & 2002\\
+Phi Beta Kappa & 2000\\
+AATG \emph{Pädagogischer Austauschdienst} Study Program & 1997\\
+\hline
+\end{tabular}
+\end{center}
+
+\subsectionhead{Graduate studies scholarships and fellowships}
+\label{Graduate-studies-scholarships-and-fellowships}
+\begin{center}
+\begin{tabular}{llr}
+\hline
+\textbf{Name} & \textbf{Years held} & \textbf{Value}\\
+\hline
+Deutscher Akademischer Austauschdienst Fellowship & 2014--2015 & \$17,500\\
+Stanford Europe Center Grant & 2014--2015 & \$5,000\\
+Linguistic Society of America Institute Fellowship & 2009 & \$6,000\\
+Stanford Linguistics Department Funding & 2008--2012 & \$60,000\\
+Bud Milligan Fellowship & 2006--2008 & \$24,000\\
+Georgetown University Full Funding & 2003--2005 & \$30,000\\
+\hline
+\end{tabular}
+\end{center}
+\sectionhead{Publications}
+\label{Publications}
+\small
+
+\begin{itemize}
+\item \href{https://scholar.google.com/citations?user=-k9s2XwAAAAJ\&hl=en}{Matthew Adams}. (2017). Prosodic well-formedness and comparative grammaticality: morphology and periphrasis in the English comparative. In Vera Gribanova and Stephanie Shih, editors, \emph{The morphosyntax-phonology connection: locality and directionality at the interface} (pp. 197--222), Oxford University Press, Oxford.
+\item \href{https://scholar.google.com/citations?user=-k9s2XwAAAAJ\&hl=en}{Matthew Adams}, \emph{\href{https://searchworks.stanford.edu/view/10530947}{The Comparative Grammaticality of the English Comparative}}, Doctoral dissertation, Stanford University, 2014.
+\item Arto Anttila, Matthew Adams, and Mike Speriosu. (2010). \href{http://www.tandfonline.com/doi/full/10.1080/01690960903525481}{The role of prosody in the English dative alternation}. \emph{Language and Cognitive Processes}, 25, 946--981.
+\end{itemize}
+
+\sectionhead{Personal}
+\label{Extracurricular}
+\begin{itemize}
+\item Portfolio at \href{https://phantisocracy.xyz}{\texttt{phantisocracy.xyz}}
+\item Avid backpacker of California, Utah, and Europe
+\end{itemize}
+
+\vfill
+This document available in multiple formats from
+\url{https://github.com/linguistgate/resume/}.
+\end{document}
