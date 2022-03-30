@@ -113,7 +113,7 @@ I teach English literature and run the Writing Center at Waterford School, a pri
 
 ## Humanities Teacher & Project Designer <span style="padding-left:3em; float:right">High Tech High, 2016&#x2013;2019</span>
 
-I taught English and history in a project-based public charter school. I worked closely with local businesses to ensure that projects had real-life connections and with the math and science teacher to work on interdisciplinary coherence.
+I taught English and history in a project-based public charter school. I worked closely with local businesses to ensure that projects had real-life connections and with my partnered math and science teacher to establish interdisciplinary coherence.
 
 
 ## Computer Science Editor <span style="padding-left:3em; float:right">Shmoop, 2014&#x2013;2015</span>
@@ -133,7 +133,7 @@ I proofed German-to-English legal documents. One of my biggest caseloads was the
 
 ## Research & Teaching Assistant <span style="padding-left:3em; float:right">Stanford University, 2007&#x2013;2012</span>
 
-I assisted in the instruction of eight courses, some of them graduate-level, and worked on three research projects with Professors Arto Anttila, Dan Jurafsky, and Joan Bresnan. I served as the Mentor Teaching Assistant, developing a course on pegagogy, and was the Graduate Student Representative for 2007&#x2013;2008.
+I assisted in the instruction of eight courses, some of them graduate-level, and worked on three research projects with Professors Arto Anttila, Dan Jurafsky, and Joan Bresnan. I served as the Mentor Teaching Assistant, developing a course on pedagogy, and was the Graduate Student Representative for 2007&#x2013;2008.
 
 
 ## German Instructor <span style="padding-left:3em; float:right">Georgetown University, 2003&#x2013;2005</span>
@@ -270,7 +270,7 @@ Highest Distinction on Oral Examination of Master&rsquo;s thesis
 
 
 <tr>
-<td class="org-left">Bud Milligan Fellowship</td>
+<td class="org-left">Bud Milligan Fellowship (Stanford University)</td>
 <td class="org-left">2006&#x2013;2008</td>
 <td class="org-right">$24,000</td>
 </tr>
