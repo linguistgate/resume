@@ -291,8 +291,6 @@ Highest Distinction on Oral Examination of Master&rsquo;s thesis
 -   [Matthew Adams](https://scholar.google.com/citations?user=-k9s2XwAAAAJ&hl=en). (2014). *[The Comparative Grammaticality of the English Comparative](https://searchworks.stanford.edu/view/10530947)* [Doctoral dissertation, Stanford University].
 -   Arto Anttila, Matthew Adams, and Mike Speriosu. (2010). [The role of prosody in the English dative alternation](http://www.tandfonline.com/doi/full/10.1080/01690960903525481). *Language and Cognitive Processes*, 25, 946&#x2013;981.
 
-Lastname, F. M. (Year). Title of dissertation/thesis (Publication No.) [Doctoral dissertation/Master’s thesis, Name of Institution Awarding the Degree]. Database or Archive Name.
-
 
 # Personal
 
